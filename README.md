@@ -1,8 +1,13 @@
 Coursera Free Courses Analysis
+
+
 Overview
+
 This project involves a detailed analysis of free courses available on Coursera, performed using Python. The analysis covers various aspects of the dataset, providing valuable insights into the distribution, correlations, and trends within the data.
 
+
 Files
+
 Untitled.ipynb: Jupyter Notebook containing the Python code for the analysis.
 coursera_data.csv: Dataset used for the analysis.
 Libraries Used
@@ -22,7 +27,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/your-repository.git
+git clone  (https://github.com/pawan1816/courseradataanalysis-)
 Open and run the Jupyter Notebook:
 
 Copy code
